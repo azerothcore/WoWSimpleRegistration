@@ -30,7 +30,8 @@ $config['supported_langs'] = [
 	'french' => 'French',
 	'german' => 'German',
 	'spanish' => 'Spanish',
-	'korean' => 'Korean'
+	'korean' => 'Korean',
+	'russian' => 'Russian'
 ];
 /*===================================================================
 If you see a white screen or have an issue, you can enable it to see the errors.
