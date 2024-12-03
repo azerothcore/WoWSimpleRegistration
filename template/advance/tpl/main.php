@@ -239,7 +239,7 @@ require_once 'rules.php';
                                     <div class="input-group">
                                         <span class="input-group"><?php elang('old_password'); ?></span>
                                         <input type="password" class="form-control"
-                                            placeholder=<?php elang('old_password'); ?>" name="old_password">
+                                            placeholder="<?php elang('old_password'); ?>" name="old_password">
                                     </div>
                                     <div class="input-group">
                                         <span class="input-group"><?php elang('password'); ?></span>
